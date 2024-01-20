@@ -4,4 +4,9 @@
 - 👀 I'm interested in web development.
 - 🤔 I’m currently learning Arduino.
 
+### Connect with me:
+
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ibrbbra#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ibrbbra#gh-dark-mode-only)
+
 [webdev]: https://github.com/fhn-ibra/fhn-ibra
