@@ -4,9 +4,9 @@
 -  I'm interested in web development.
 -  I’m currently learning VueJS.
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <h3 align="left">Languages :</h3>
 <p align="left">
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 </p>
 
 
